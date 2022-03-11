@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/homework1.deps.json
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/homework1.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/homework1.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/homework1.dll
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/ref/homework1.dll
+/Users/orkhangahramanli/Desktop/asand/homework1/bin/Debug/net5.0/homework1.pdb
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.dll
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/ref/homework1.dll
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.pdb
+/Users/orkhangahramanli/Desktop/asand/homework1/obj/Debug/net5.0/homework1.genruntimeconfig.cache
